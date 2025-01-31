@@ -1,6 +1,41 @@
 ## ✅ Feature Progress Checklist
 
-<table>
+### Authentication
+
+| Status | Fungsional              |
+| :----: | ----------------------- |
+|   ✅   | login                   |
+|   ✅   | login dengan multi role |
+|   ✅   | register                |
+|   ✅   | logout                  |
+
+### Jobs
+
+| Status | Fungsional                                               |
+| :----: | -------------------------------------------------------- |
+|   ✅   | membuat job baru                                         |
+|   ✅   | mendapatkan daftar job yang belum dikerjakan oleh driver |
+|   ✅   | mendapatkan detail job yang belum dikerjakan oleh driver |
+
+### Offers
+
+| Status | Fungsional |
+| :----: | ---------- |
+
+### Account
+
+| Status | Fungsional |
+| :----: | ---------- |
+
+---
+
+### Legend:
+
+- ✅ = Completed
+- 🚧 = In Progress
+- ⬜ = Not started
+
+<!-- <table>
   <tr>
     <th>Feature</th>
     <th>Functionality</th>
@@ -113,10 +148,4 @@
     <td align="center"></td>
     <td></td>
   </tr>
-</table>
-
-### Legend:
-
-- ✅ = Completed
-- 🚧 = In Progress
-- ⬜ = Not started
+</table> -->
