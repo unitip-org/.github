@@ -20,7 +20,12 @@
 ### Offers
 
 | Status | Fungsional |
-| :----: | ---------- |
+|   ✅   | Daftar offer 
+|   ✅   | Detail offer |
+|   ✅   | Apply offer |
+|   🚧   | Tambah offer |
+|   🚧   | OnProgress offer |
+
 
 ### Account
 
