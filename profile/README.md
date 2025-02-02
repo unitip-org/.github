@@ -19,7 +19,8 @@
 
 ### Offers
 
-| Status | Fungsional |
+| Status | Fungsional                                               |
+| :----: | -------------------------------------------------------- |
 |   ✅   | Daftar offer 
 |   ✅   | Detail offer |
 |   ✅   | Apply offer |
